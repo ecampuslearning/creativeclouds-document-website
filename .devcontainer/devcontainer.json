@@ -1,0 +1,15 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers-contrib/features/markdownlint-cli:1": {}
+    "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+  "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {}
+  "ghcr.io/devcontainers/features/node:1": {}
+  "ghcr.io/devcontainers-contrib/features/circleci-cli:1": {}
+"ghcr.io/christophermacgown/devcontainer-features/easy-container-hooks:1": {}
+"ghcr.io/devcontainers/features/anaconda:1": {}
+"ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {}
+"ghcr.io/azure/azure-dev/azd:0": {}
+  }
+}
